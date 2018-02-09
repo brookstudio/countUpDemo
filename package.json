@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
     "core-js": "^2.4.1",
-    "countup.js": "git+https://github.com/brookstudio/countUp.js.git",
+    "ng-countup": "git+https://github.com/brookstudio/ng-countup.git",
     "rxjs": "^5.4.1",
     "zone.js": "^0.8.14"
   },
