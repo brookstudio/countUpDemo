@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
-import { CountUpModule } from 'countUp.js/countUp.module';
+import { CountUpModule } from 'ng-countup/src/count-up';
 
 @NgModule({
   declarations: [
